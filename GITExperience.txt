@@ -1,0 +1,4 @@
+I just want to share my experience about using GIT.
+It made easy for me to store my projects in an open source platform which is completely free to use.
+I recommend this GIT each and every developer over the world to use it.
+One of the best advantages is that our code will be reviewied by develepers in our community and also we can get resourses from open source platform provided.
