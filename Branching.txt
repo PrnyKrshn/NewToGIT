@@ -1,0 +1,3 @@
+Branching helps to start a new line of development from an existing commit.
+This practice ensures that unstable code doesn't get merged into our main code base, We can even clean the code before merging.
+  command to switch the branch is -> git switch %branchName%
